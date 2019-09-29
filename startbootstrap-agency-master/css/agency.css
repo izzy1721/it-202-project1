@@ -61,7 +61,7 @@ h6 {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #D50032;
   text-shadow: none;
 }
 
@@ -442,7 +442,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #D50032;
 }
 
 .timeline > li .timeline-image h4 {
@@ -617,7 +617,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #fed136;
+  border-color: #D50032;
   box-shadow: none;
 }
 
